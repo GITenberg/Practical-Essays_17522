@@ -1,0 +1,32 @@
+_repo: Practical-Essays_17522
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bain, Alexander
+    birthdate: 1818
+    deathdate: 1903
+    gutenberg_agent_id: '4709'
+    url: http://www.gutenberg.org/2009/agents/4709
+    wikipedia: http://en.wikipedia.org/wiki/Alexander_Bain
+description: ''
+gutenberg_issued: '2006-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17522'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Essays'
+- !lcc 'B'
+tableOfContents: 'Common errors on the mind -- Errors of suppressed correlatives --
+  The civil service examinations -- The classical controversy: its present aspect
+  -- Metaphysics and debating societies -- The university ideal, past and present
+  -- The art of study -- Religious tests and subscriptions -- Procedure of deliberative
+  bodies.'
+title: Practical Essays
+url: http://www.gutenberg.org/ebooks/17522
